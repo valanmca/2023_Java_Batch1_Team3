@@ -12,3 +12,17 @@ public int mahesh_method_subract()
     return Sub_result;
 }
 }
+// By Jeyavel
+ Void Studentname() {
+   int id; 
+   String name; 
+   float ;
+     
+   }
+
+   void display() {
+      System.out.println("Student id =" + this.eid);
+      System.out.println("Student Name =" + this.ename);
+      System.out.println("sStudent Salary =" + this.esalary);
+      System.out.println("============================");
+   }
