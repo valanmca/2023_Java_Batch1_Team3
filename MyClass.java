@@ -10,7 +10,7 @@ public int mahesh_method_add()
     int Add_result = val1+val2;
     return Add_result;
 }
-public int mahesh_method_subract()
+public int mahesh_method_sub()
 {
     int val3,int val4;
     int Sub_result = val3+val4;
