@@ -18,3 +18,18 @@ public int mahesh_method_subract()
 }
 >>>>>>> 516797c2542e25c35c0301dd031873774915927b
 }
+
+   // By Jeyavel
+ Void Studentname() {
+   int id; 
+   String name; 
+   float ;
+     
+   }
+
+   void display() {
+      System.out.println("Student id =" + this.eid);
+      System.out.println("Student Name =" + this.ename);
+      System.out.println("sStudent Salary =" + this.esalary);
+      System.out.println("============================");
+   }
